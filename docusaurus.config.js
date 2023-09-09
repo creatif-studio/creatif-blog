@@ -67,8 +67,8 @@ const config = {
       navbar: {
         title: "Creatif Studio",
         logo: {
-          alt: "Creatif Studio",
-          src: "img/logo.png",
+          src: "img/logo-light.png",
+          srcDark: "img/logo-dark.png",
         },
         items: [
           // {
